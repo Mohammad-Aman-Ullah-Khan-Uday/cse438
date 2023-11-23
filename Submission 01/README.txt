@@ -11,8 +11,7 @@ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 
 
 Link to the paper:
-https://aclanthology.org/N19-1423/
-
+https://aclanthology.org/N19-1423.pdf
 
 Group Number:
 NA
