@@ -10,7 +10,7 @@ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 Link to the paper:
 https://aclanthology.org/N19-1423.pdf
 
-Group Number: NA
+Group Number: 17
 
 Individual Submitter:
 19301139 Mohammad Aman Ullah Khan 
