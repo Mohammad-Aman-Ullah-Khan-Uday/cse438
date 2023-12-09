@@ -10,7 +10,7 @@ Privacy-Preserving Deep Learning NLP Models for Cancer Registries
 Link to the paper:
 https://ieeexplore.ieee.org/document/9069186
 
-Group Number: NA
+Group Number: 17
 
 Individual Submitter:
 19301139 Mohammad Aman Ullah Khan 
